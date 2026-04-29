@@ -1,0 +1,1 @@
+This is a basic RFM analysis of some customers' shopping patterns in which customers are put into segment-wise categories such as- Loyal VIPs, Potential Loyalists, Promising, Engaged, Required Attention, At Risk customers based on their purchase recency, frequency and monetary values. This was done using Google BigQuery SQL and linked to PowerBI for overall visualization.
